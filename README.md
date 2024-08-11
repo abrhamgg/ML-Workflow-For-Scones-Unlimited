@@ -28,6 +28,13 @@ Welcome to the **Scones Unlimited** image classification project! As a Machine L
   
 - **Step 5: Cleanup Cloud Resources**
   - After completing the project, it's important to clean up all the AWS resources to avoid incurring unnecessary costs. This includes terminating SageMaker endpoints, deleting S3 buckets, and removing Lambda functions.
+  
+### Execution Start and Successful Serialization
+![Execution Start](https://github.com/abrhamgg/ML-Workflow-For-Scones-Unlimited/images/Screenshot%20from%202024-08-11%2004-47-59.png)
+
+### Successful Image Classification and Filtering
+![Successful Image Classification](https://github.com/abrhamgg/ML-Workflow-For-Scones-Unlimited/images/Screenshot%20from%202024-08-11%2004-29-05.png)
+
 
 ## Technologies Used
 
